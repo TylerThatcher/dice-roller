@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[60]:
-
-
 import random
 
 def dice_roller():
@@ -24,12 +18,4 @@ def dice_roller():
         print("Dice {} is: {}".format(rolls,dice))
     
     print("Total is: {}".format(total))
-
-        
-
-
-# In[61]:
-
-
-dice_roller()
-
+   
